@@ -1,4 +1,4 @@
-# generator-ts-staging [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-ts-staging
 > 快速ts开发
 
 ## Installation
