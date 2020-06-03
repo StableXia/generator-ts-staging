@@ -1,12 +1,12 @@
 {
   "name": "generator-ts-staging",
   "version": "0.0.0",
-  "description": "快速ts开发",
-  "homepage": "",
+  "description": "ts快速开发",
+  "homepage": "https://github.com/xiaotangdou/generator-ts-staging",
+  "repository": "https://github.com/xiaotangdou/generator-ts-staging.git",
   "author": {
     "name": "xw",
-    "email": "",
-    "url": ""
+    "email": "1124428668@qq.com"
   },
   "files": [
     "generators"
