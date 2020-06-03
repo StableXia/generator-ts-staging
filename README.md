@@ -39,5 +39,5 @@ MIT © [xw]()
 
 
 ### 要做的事
-1、锁定依赖版本
+1、锁定依赖版本：yarn-lock、package-lock
 2、升级 "@rollup/plugin-node-resolve": "^8.0.0"
