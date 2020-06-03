@@ -36,3 +36,8 @@ MIT © [xw]()
 [daviddm-url]: https://david-dm.org//generator-ts-staging
 [coveralls-image]: https://coveralls.io/repos//generator-ts-staging/badge.svg
 [coveralls-url]: https://coveralls.io/r//generator-ts-staging
+
+
+### 要做的事
+1、锁定依赖版本
+2、升级 "@rollup/plugin-node-resolve": "^8.0.0"
