@@ -1,6 +1,6 @@
 const path = require('path');
 const babel = require('rollup-plugin-babel');
-const nodeResolve = require('@rollup/plugin-node-resolve');
+const { nodeResolve } = require('@rollup/plugin-node-resolve');
 const uglify = require('rollup-plugin-uglify').uglify;
 const merge = require('lodash.merge');
 const pkg = require('./package.json');
